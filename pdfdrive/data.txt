@@ -1,0 +1,20 @@
+'''
+    Editor's Picks - 113
+    Most Popular - 112
+    Academic & Education - 6
+    Art - 1
+    Biography - 16
+    Business & Career - 3
+    Children & Youth - 17
+    Environment - 18
+    Fiction & Literature - 11
+    Health & Fitness - 8
+    Lifestyle - 19
+    Personal Growth - 4
+    Politics & Laws - 15
+    Religion - 10
+    Science & Research - 14
+    Technology - 5
+
+
+'''
